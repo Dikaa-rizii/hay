@@ -1,0 +1,97 @@
+{
+  "users": {
+    "6285220625571@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285775183506@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285219347835@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62895403431445@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285780302305@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "6285220625571@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "62895403431445@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285775183506@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6283827800405@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285219347835@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6289603542383@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282284507400@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285811317587@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363040406651278@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6285220625571@s.whatsapp.net": {
+      "anticall": true,
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {},
+  "anonymous": {}
+}
